@@ -17,10 +17,10 @@ namespace StudentProfile.Controllers
                 Name = "Tanjil Tashrik ",
                 Age = 24,
                 Department = "CS",
-                Cgpa = "3"
+                Cgpa = 3
             };
 
-            return View();
+            return View(student);
         }
 
     }
