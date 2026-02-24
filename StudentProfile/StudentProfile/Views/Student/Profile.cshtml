@@ -5,3 +5,28 @@
 
 <h1>Profile</h1>
 
+<p>ID:@Model.Id</p>
+<p>Name: @Model.Name</p>
+<p>Age: @Model.Name</p>
+<p>Department: @Model.Department</p>
+<p>CGPA: @Model.Cgpa</p>
+
+
+@if(Model.Age<18)
+{
+    <p>Minor</p>
+}
+else
+{
+    <p>Adult</p>
+}
+@if (Model.Cgpa >= 3.5)
+{
+    <p>Excellent</p>
+}
+else
+{
+    <p>average</p>
+}
+
+
