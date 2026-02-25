@@ -1,0 +1,23 @@
+﻿@using Newtonsoft.Json.Linq
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+@Model IEnumberable<StudentProfile.Models.Product>
+
+    <h2>Product List</h2>
+
+    <ul>
+        @foreach (var p in Model)
+        {
+            <li>
+                <a href="/Product/Details/@p.Id">@p.Name</a> -$@p.Price
+            </li>
+        }
+
+
+
+    </ul>

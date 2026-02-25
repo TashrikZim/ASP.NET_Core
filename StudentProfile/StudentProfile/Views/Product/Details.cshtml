@@ -1,0 +1,13 @@
+﻿@model StudentProfile.Models.Product
+
+<h2>Product Details</h2>
+
+<p>ID: @Model.Id</p>
+<p>Name: @Model.Name</p>
+<p>Category: @Model.Category</p>
+<p>Price: $@Model.Price</p>
+
+@if (Model.Price > 1000)
+{
+    <p style="color: green; font-weight: bold;">Premium Product</p>
+}

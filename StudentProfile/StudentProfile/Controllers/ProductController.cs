@@ -14,14 +14,18 @@ namespace StudentProfile.Controllers
                 new Product {Id=2, Name="CPU",Price=500,Category="Hardware"}
             };
 
-            return View();
+            return View(products);
         }
-         public IActionResult Details()
+         public IActionResult Details(int id)
         {  
-        
+          List<Product> products=new List<Product>
+          {
+              new Product {Id=1, Name="Laptop",Price=120000,Category="Tech"},
+              new Product {Id=2,Name="CPU",Price=25000,Category="Hardware" }
+          };
          
-            
-            return View(); 
+            var product=products.FirstOrDefault(p=> p.Id==id);
+            return View(product); 
         
         
         }
