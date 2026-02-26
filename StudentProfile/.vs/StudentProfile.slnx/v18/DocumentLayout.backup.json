@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\StudentProfile\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\studentprofile\\studentprofile\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|solutionrelative:studentprofile\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\studentprofile\\studentprofile\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|solutionrelative:studentprofile\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\studentprofile\\studentprofile\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|solutionrelative:studentprofile\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\studentprofile\\studentprofile\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|solutionrelative:studentprofile\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,11 +50,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentProfile\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Views\\Employee\\Index.cshtml*",
+              "RelativeToolTip": "StudentProfile\\Views\\Employee\\Index.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T12:39:57.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "StudentProfile\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "StudentProfile\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:26:02.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "StudentProfile\\Models\\Employee.cs",
+              "ToolTip": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Models\\Employee.cs",
+              "RelativeToolTip": "StudentProfile\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:24:32.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Details.cshtml",
               "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Views\\Product\\Details.cshtml",
               "RelativeDocumentMoniker": "StudentProfile\\Views\\Product\\Details.cshtml",
@@ -50,38 +100,35 @@
               "RelativeToolTip": "StudentProfile\\Views\\Product\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-25T17:11:54.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T17:11:54.188Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "StudentProfile\\Views\\Product\\Index.cshtml",
-              "ToolTip": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Views\\Product\\Index.cshtml*",
-              "RelativeToolTip": "StudentProfile\\Views\\Product\\Index.cshtml*",
+              "ToolTip": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "StudentProfile\\Views\\Product\\Index.cshtml",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-25T17:00:13.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T17:00:13.144Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ProductController.cs",
               "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "StudentProfile\\Controllers\\ProductController.cs",
               "ToolTip": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Controllers\\ProductController.cs",
               "RelativeToolTip": "StudentProfile\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T19:00:56.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T19:00:56.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Models\\Product.cs",
               "RelativeDocumentMoniker": "StudentProfile\\Models\\Product.cs",
@@ -93,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Profile.cshtml",
               "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Views\\Student\\Profile.cshtml",
               "RelativeDocumentMoniker": "StudentProfile\\Views\\Student\\Profile.cshtml",
@@ -105,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Student.cs",
               "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Models\\Student.cs",
               "RelativeDocumentMoniker": "StudentProfile\\Models\\Student.cs",
@@ -117,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "StudentController.cs",
               "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "StudentProfile\\Controllers\\StudentController.cs",
@@ -125,8 +172,7 @@
               "RelativeToolTip": "StudentProfile\\Controllers\\StudentController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T17:35:04.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-23T17:35:04.612Z"
             }
           ]
         }
