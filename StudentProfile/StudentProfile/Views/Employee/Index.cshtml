@@ -1,0 +1,30 @@
+﻿@model IEnumerable<StudentProfile.Models.Employee>
+
+<h2>Employee</h2>
+
+<table border="1" cellpadding="10">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Designation</th>
+            <th>Salary</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var emp in Model)
+        {
+           
+            string textColor = emp.Salary > 50000 ? "green" : "black";
+            string fontWeight = emp.Designation == "Manager" ? "bold" : "normal";
+
+            <tr style="color: @textColor; font-weight: @fontWeight;">
+                <td>@emp.Name</td>
+                <td>@emp.Designation</td>
+                <td>$@emp.Salary</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<hr />
+<h4>Total Employees: @Model.Count()</h4>
