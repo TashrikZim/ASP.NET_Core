@@ -22,6 +22,11 @@ namespace StudentProfile.Controllers
 
             return View(student);
         }
+        public IActionResult Details(int id)
+        {
+            var data = db.Departments.Find(id);
+            return View();
+        }
 
     }
 }
