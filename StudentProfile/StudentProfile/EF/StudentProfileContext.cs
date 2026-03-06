@@ -18,6 +18,8 @@ public partial class StudentProfileContext : DbContext
 
     public virtual DbSet<Detail> Details { get; set; }
 
+    public virtual DbSet<Detail1> Details1 { get; set; }
+
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         => optionsBuilder.UseSqlServer("Name=DbConnection");
 
@@ -25,6 +27,23 @@ public partial class StudentProfileContext : DbContext
     {
         modelBuilder.Entity<Detail>(entity =>
         {
+            entity.ToTable("detail");
+
+            entity.Property(e => e.Id).HasColumnName("id");
+            entity.Property(e => e.Department)
+                .HasMaxLength(50)
+                .IsUnicode(false)
+                .HasColumnName("department");
+            entity.Property(e => e.Name)
+                .HasMaxLength(50)
+                .IsUnicode(false)
+                .HasColumnName("name");
+        });
+
+        modelBuilder.Entity<Detail1>(entity =>
+        {
+            entity.ToTable("Details");
+
             entity.Property(e => e.Name)
                 .HasMaxLength(50)
                 .IsUnicode(false);
