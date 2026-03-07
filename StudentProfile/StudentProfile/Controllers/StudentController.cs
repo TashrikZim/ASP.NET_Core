@@ -1,10 +1,16 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using StudentProfile.EF;
 using StudentProfile.Models;
 
 namespace StudentProfile.Controllers
 {
     public class StudentController : Controller
     {
+        StudentProfileContext db;
+        public StudentController(StudentProfileContext db)
+        {
+            this.db = db;
+        }
         public IActionResult Index()
         {
             return View();
@@ -21,6 +27,11 @@ namespace StudentProfile.Controllers
             };
 
             return View(student);
+        }
+        public IActionResult Details(int id)
+        {
+            var data = db.Details.Find(id);
+            return View();
         }
 
     }
