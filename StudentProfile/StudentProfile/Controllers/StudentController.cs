@@ -30,7 +30,10 @@ namespace StudentProfile.Controllers
         }
         public IActionResult Details(int id)
         {
+            //retrive by id
             var data = db.Details.Find(id);
+
+            
             return View();
         }
 
