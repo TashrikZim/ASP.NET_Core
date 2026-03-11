@@ -18,6 +18,8 @@ namespace StudentProfile.Controllers
         }
          public IActionResult Details(int id)
         {  
+            //list of the products
+
           List<Product> products=new List<Product>
           {
               new Product {Id=1, Name="Laptop",Price=120000,Category="Tech"},
