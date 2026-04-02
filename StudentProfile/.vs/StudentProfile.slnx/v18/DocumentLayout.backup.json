@@ -3,12 +3,75 @@
   "WorkspaceRootPath": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\12th Semester\\ADVANCED PROGRAMMING WITH .NET\\.NET Code Practice\\ASP.NET_Core\\StudentProfile\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|c:\\users\\tanjil tashrik zim\\desktop\\12th semester\\advanced programming with .net\\.net code practice\\asp.net_core\\studentprofile\\studentprofile\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\studentprofile\\studentprofile\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|solutionrelative:studentprofile\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\studentprofile\\studentprofile\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|solutionrelative:studentprofile\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\studentprofile\\studentprofile\\ef\\tables\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|solutionrelative:studentprofile\\ef\\tables\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\studentprofile\\studentprofile\\ef\\studentprofilecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|solutionrelative:studentprofile\\ef\\studentprofilecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\studentprofile\\studentprofile\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|solutionrelative:studentprofile\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\studentprofile\\studentprofile\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|solutionrelative:studentprofile\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\studentprofile\\studentprofile\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|solutionrelative:studentprofile\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\studentprofile\\studentprofile\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|solutionrelative:studentprofile\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\studentprofile\\studentprofile\\views\\student\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|solutionrelative:studentprofile\\views\\student\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\studentprofile\\studentprofile\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|solutionrelative:studentprofile\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\studentprofile\\studentprofile\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|solutionrelative:studentprofile\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\studentprofile\\studentprofile\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|solutionrelative:studentprofile\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\studentprofile\\studentprofile\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|solutionrelative:studentprofile\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\studentprofile\\studentprofile\\ef\\tables\\detail1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|solutionrelative:studentprofile\\ef\\tables\\detail1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\studentprofile\\studentprofile\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+=======
       "AbsoluteMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|c:\\users\\tanjil tashrik zim\\desktop\\12th semester\\advanced programming with .net\\.net code practice\\asp.net_core\\studentprofile\\studentprofile\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|solutionrelative:studentprofile\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|c:\\users\\tanjil tashrik zim\\desktop\\12th semester\\advanced programming with .net\\.net code practice\\asp.net_core\\studentprofile\\studentprofile\\ef\\studentprofilecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|solutionrelative:studentprofile\\ef\\studentprofilecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|c:\\users\\tanjil tashrik zim\\desktop\\12th semester\\advanced programming with .net\\.net code practice\\asp.net_core\\studentprofile\\studentprofile\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|solutionrelative:studentprofile\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|c:\\users\\tanjil tashrik zim\\desktop\\12th semester\\advanced programming with .net\\.net code practice\\asp.net_core\\studentprofile\\studentprofile\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,10 +110,6 @@
       "RelativeMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|solutionrelative:studentprofile\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|c:\\users\\tanjil tashrik zim\\desktop\\12th semester\\advanced programming with .net\\.net code practice\\asp.net_core\\studentprofile\\studentprofile\\ef\\studentprofilecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|solutionrelative:studentprofile\\ef\\studentprofilecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|c:\\users\\tanjil tashrik zim\\desktop\\12th semester\\advanced programming with .net\\.net code practice\\asp.net_core\\studentprofile\\studentprofile\\ef\\tables\\detail1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|solutionrelative:studentprofile\\ef\\tables\\detail1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -60,6 +119,7 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|c:\\users\\tanjil tashrik zim\\desktop\\12th semester\\advanced programming with .net\\.net code practice\\asp.net_core\\studentprofile\\studentprofile\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+>>>>>>> a833c06b31637437af28639c00eee65dac4fee7d
       "RelativeMoniker": "D:0:0:{AB16324D-6E77-FE0E-F14C-970AFAE673B0}|StudentProfile\\StudentProfile.csproj|solutionrelative:studentprofile\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
@@ -94,15 +154,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+<<<<<<< HEAD
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "StudentProfile\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "StudentProfile\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T09:51:00.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Detail1.cs",
-              "DocumentMoniker": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\12th Semester\\ADVANCED PROGRAMMING WITH .NET\\.NET Code Practice\\ASP.NET_Core\\StudentProfile\\StudentProfile\\EF\\Tables\\Detail1.cs",
+              "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\StudentProfile\\StudentProfile\\EF\\Tables\\Detail1.cs",
               "RelativeDocumentMoniker": "StudentProfile\\EF\\Tables\\Detail1.cs",
-              "ToolTip": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\12th Semester\\ADVANCED PROGRAMMING WITH .NET\\.NET Code Practice\\ASP.NET_Core\\StudentProfile\\StudentProfile\\EF\\Tables\\Detail1.cs",
+              "ToolTip": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\StudentProfile\\StudentProfile\\EF\\Tables\\Detail1.cs",
               "RelativeToolTip": "StudentProfile\\EF\\Tables\\Detail1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -110,7 +184,14 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+=======
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
+>>>>>>> a833c06b31637437af28639c00eee65dac4fee7d
               "Title": "Detail.cs",
               "DocumentMoniker": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\12th Semester\\ADVANCED PROGRAMMING WITH .NET\\.NET Code Practice\\ASP.NET_Core\\StudentProfile\\StudentProfile\\EF\\Tables\\Detail.cs",
               "RelativeDocumentMoniker": "StudentProfile\\EF\\Tables\\Detail.cs",
@@ -118,7 +199,8 @@
               "RelativeToolTip": "StudentProfile\\EF\\Tables\\Detail.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T09:38:10.36Z"
+              "WhenOpened": "2026-03-06T09:38:10.36Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -134,15 +216,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+<<<<<<< HEAD
+              "DocumentIndex": 3,
+=======
+              "DocumentIndex": 1,
+>>>>>>> a833c06b31637437af28639c00eee65dac4fee7d
               "Title": "StudentProfileContext.cs",
               "DocumentMoniker": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\12th Semester\\ADVANCED PROGRAMMING WITH .NET\\.NET Code Practice\\ASP.NET_Core\\StudentProfile\\StudentProfile\\EF\\StudentProfileContext.cs",
               "RelativeDocumentMoniker": "StudentProfile\\EF\\StudentProfileContext.cs",
               "ToolTip": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\12th Semester\\ADVANCED PROGRAMMING WITH .NET\\.NET Code Practice\\ASP.NET_Core\\StudentProfile\\StudentProfile\\EF\\StudentProfileContext.cs",
               "RelativeToolTip": "StudentProfile\\EF\\StudentProfileContext.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T18:07:05.121Z"
+              "WhenOpened": "2026-03-02T18:07:05.121Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -170,20 +257,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\12th Semester\\ADVANCED PROGRAMMING WITH .NET\\.NET Code Practice\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "StudentProfile\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\12th Semester\\ADVANCED PROGRAMMING WITH .NET\\.NET Code Practice\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Controllers\\ProductController.cs",
               "RelativeToolTip": "StudentProfile\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-24T19:00:56.319Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\12th Semester\\ADVANCED PROGRAMMING WITH .NET\\.NET Code Practice\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentProfile\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\12th Semester\\ADVANCED PROGRAMMING WITH .NET\\.NET Code Practice\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentProfile\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA/wBMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T17:35:04.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Detail1.cs",
+              "DocumentMoniker": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\12th Semester\\ADVANCED PROGRAMMING WITH .NET\\.NET Code Practice\\ASP.NET_Core\\StudentProfile\\StudentProfile\\EF\\Tables\\Detail1.cs",
+              "RelativeDocumentMoniker": "StudentProfile\\EF\\Tables\\Detail1.cs",
+              "ToolTip": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\12th Semester\\ADVANCED PROGRAMMING WITH .NET\\.NET Code Practice\\ASP.NET_Core\\StudentProfile\\StudentProfile\\EF\\Tables\\Detail1.cs",
+              "RelativeToolTip": "StudentProfile\\EF\\Tables\\Detail1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T09:50:26.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\12th Semester\\ADVANCED PROGRAMMING WITH .NET\\.NET Code Practice\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "StudentProfile\\Models\\ErrorViewModel.cs",
@@ -207,7 +319,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+<<<<<<< HEAD
+              "DocumentIndex": 9,
+=======
+              "DocumentIndex": 7,
+>>>>>>> a833c06b31637437af28639c00eee65dac4fee7d
               "Title": "LoginModel.cs",
               "DocumentMoniker": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\12th Semester\\ADVANCED PROGRAMMING WITH .NET\\.NET Code Practice\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Models\\LoginModel.cs",
               "RelativeDocumentMoniker": "StudentProfile\\Models\\LoginModel.cs",
@@ -231,7 +347,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+<<<<<<< HEAD
+              "DocumentIndex": 12,
+=======
+              "DocumentIndex": 11,
+>>>>>>> a833c06b31637437af28639c00eee65dac4fee7d
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\12th Semester\\ADVANCED PROGRAMMING WITH .NET\\.NET Code Practice\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "StudentProfile\\Controllers\\LoginController.cs",
@@ -255,7 +375,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+<<<<<<< HEAD
+              "DocumentIndex": 11,
+=======
+              "DocumentIndex": 10,
+>>>>>>> a833c06b31637437af28639c00eee65dac4fee7d
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\12th Semester\\ADVANCED PROGRAMMING WITH .NET\\.NET Code Practice\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "StudentProfile\\Controllers\\EmployeeController.cs",
@@ -267,7 +391,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+<<<<<<< HEAD
+              "DocumentIndex": 10,
+=======
+              "DocumentIndex": 9,
+>>>>>>> a833c06b31637437af28639c00eee65dac4fee7d
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\12th Semester\\ADVANCED PROGRAMMING WITH .NET\\.NET Code Practice\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "StudentProfile\\Models\\Employee.cs",
@@ -276,10 +404,28 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-26T09:24:32.702Z"
+<<<<<<< HEAD
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "StudentProfile\\Views\\Product\\Details.cshtml",
+              "ToolTip": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "StudentProfile\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-25T17:11:54.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+=======
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\12th Semester\\ADVANCED PROGRAMMING WITH .NET\\.NET Code Practice\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Views\\Product\\Details.cshtml",
               "RelativeDocumentMoniker": "StudentProfile\\Views\\Product\\Details.cshtml",
@@ -291,7 +437,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+>>>>>>> a833c06b31637437af28639c00eee65dac4fee7d
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\12th Semester\\ADVANCED PROGRAMMING WITH .NET\\.NET Code Practice\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "StudentProfile\\Views\\Product\\Index.cshtml",
@@ -300,6 +447,22 @@
               "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-25T17:00:13.144Z"
+<<<<<<< HEAD
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "StudentProfile\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "StudentProfile\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T19:00:56.319Z",
+              "EditorCaption": ""
+=======
+>>>>>>> a833c06b31637437af28639c00eee65dac4fee7d
             },
             {
               "$type": "Document",
@@ -315,7 +478,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+<<<<<<< HEAD
+              "DocumentIndex": 8,
+=======
+              "DocumentIndex": 6,
+>>>>>>> a833c06b31637437af28639c00eee65dac4fee7d
               "Title": "Profile.cshtml",
               "DocumentMoniker": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\12th Semester\\ADVANCED PROGRAMMING WITH .NET\\.NET Code Practice\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Views\\Student\\Profile.cshtml",
               "RelativeDocumentMoniker": "StudentProfile\\Views\\Student\\Profile.cshtml",
@@ -327,27 +494,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+<<<<<<< HEAD
+              "DocumentIndex": 0,
+=======
+              "DocumentIndex": 3,
+>>>>>>> a833c06b31637437af28639c00eee65dac4fee7d
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\12th Semester\\ADVANCED PROGRAMMING WITH .NET\\.NET Code Practice\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Models\\Student.cs",
               "RelativeDocumentMoniker": "StudentProfile\\Models\\Student.cs",
               "ToolTip": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\12th Semester\\ADVANCED PROGRAMMING WITH .NET\\.NET Code Practice\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Models\\Student.cs",
               "RelativeToolTip": "StudentProfile\\Models\\Student.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAA7wAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T17:39:40.298Z"
+<<<<<<< HEAD
+              "WhenOpened": "2026-02-23T17:39:40.298Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\12th Semester\\ADVANCED PROGRAMMING WITH .NET\\.NET Code Practice\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Controllers\\StudentController.cs",
+              "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "StudentProfile\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\12th Semester\\ADVANCED PROGRAMMING WITH .NET\\.NET Code Practice\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\StudentProfile\\StudentProfile\\Controllers\\StudentController.cs",
               "RelativeToolTip": "StudentProfile\\Controllers\\StudentController.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAADwvyAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-23T17:35:04.612Z"
+=======
+              "WhenOpened": "2026-02-23T17:39:40.298Z"
+>>>>>>> a833c06b31637437af28639c00eee65dac4fee7d
             }
           ]
         }
