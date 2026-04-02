@@ -17,6 +17,7 @@ namespace StudentProfile.Controllers
         }
     public IActionResult Profile(int id)
         {
+            //demo details
             Student student = new Student()
             {
                 Id = id,
