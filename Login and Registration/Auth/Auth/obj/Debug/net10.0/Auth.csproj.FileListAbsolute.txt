@@ -223,3 +223,4 @@ E:\AIUB ALL SEMESTER\12th Semester\Dot Net\ASP.NET_Core\Login and Registration\A
 E:\AIUB ALL SEMESTER\12th Semester\Dot Net\ASP.NET_Core\Login and Registration\Auth\Auth\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 E:\AIUB ALL SEMESTER\12th Semester\Dot Net\ASP.NET_Core\Login and Registration\Auth\Auth\obj\Debug\net10.0\Auth.csproj.AssemblyReference.cache
 E:\AIUB ALL SEMESTER\12th Semester\Dot Net\ASP.NET_Core\Login and Registration\Auth\Auth\obj\Debug\net10.0\Auth.csproj.Up2Date
+E:\AIUB ALL SEMESTER\12th Semester\Dot Net\ASP.NET_Core\Login and Registration\Auth\Auth\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
