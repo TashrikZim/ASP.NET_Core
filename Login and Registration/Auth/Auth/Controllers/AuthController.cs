@@ -22,6 +22,7 @@ namespace Auth.Controllers
         {
             return View(new RegisterDTO() { });
         }
+        
         [HttpPost]
         public IActionResult Registration(RegisterDTO obj)
         {
