@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\Login and Registration\\Auth\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\login and registration\\auth\\auth\\validation\\uniqueusername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|solutionrelative:auth\\validation\\uniqueusername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\login and registration\\auth\\auth\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|solutionrelative:auth\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\login and registration\\auth\\auth\\validation\\passwordmatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|solutionrelative:auth\\validation\\passwordmatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\login and registration\\auth\\auth\\ef\\tables\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|solutionrelative:auth\\ef\\tables\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\login and registration\\auth\\auth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|solutionrelative:auth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\login and registration\\auth\\auth\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|solutionrelative:auth\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{334F3B23-EFE8-6F1A-5E5F-9A2275D56E28}|Auth\\Auth.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\login and registration\\auth\\auth\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,15 +62,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "UniqueUsername.cs",
+              "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\Login and Registration\\Auth\\Auth\\Validation\\UniqueUsername.cs",
+              "RelativeDocumentMoniker": "Auth\\Validation\\UniqueUsername.cs",
+              "ToolTip": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\Login and Registration\\Auth\\Auth\\Validation\\UniqueUsername.cs",
+              "RelativeToolTip": "Auth\\Validation\\UniqueUsername.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T14:59:42.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PasswordMatch.cs",
+              "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\Login and Registration\\Auth\\Auth\\Validation\\PasswordMatch.cs",
+              "RelativeDocumentMoniker": "Auth\\Validation\\PasswordMatch.cs",
+              "ToolTip": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\Login and Registration\\Auth\\Auth\\Validation\\PasswordMatch.cs",
+              "RelativeToolTip": "Auth\\Validation\\PasswordMatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T17:45:26.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\Login and Registration\\Auth\\Auth\\Views\\Auth\\Index.cshtml",
               "RelativeDocumentMoniker": "Auth\\Views\\Auth\\Index.cshtml",
@@ -70,12 +108,11 @@
               "RelativeToolTip": "Auth\\Views\\Auth\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-30T15:52:20.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-30T15:52:20.142Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "UserType.cs",
               "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\Login and Registration\\Auth\\Auth\\EF\\Tables\\UserType.cs",
               "RelativeDocumentMoniker": "Auth\\EF\\Tables\\UserType.cs",
@@ -87,20 +124,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\Login and Registration\\Auth\\Auth\\EF\\Tables\\User.cs",
               "RelativeDocumentMoniker": "Auth\\EF\\Tables\\User.cs",
               "ToolTip": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\Login and Registration\\Auth\\Auth\\EF\\Tables\\User.cs",
               "RelativeToolTip": "Auth\\EF\\Tables\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T14:44:00.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T14:44:00.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\Login and Registration\\Auth\\Auth\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Auth\\Controllers\\HomeController.cs",
@@ -108,12 +144,11 @@
               "RelativeToolTip": "Auth\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T13:25:36.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T13:25:36.495Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Registration.cshtml",
               "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\Login and Registration\\Auth\\Auth\\Views\\Auth\\Registration.cshtml",
               "RelativeDocumentMoniker": "Auth\\Views\\Auth\\Registration.cshtml",
@@ -121,12 +156,11 @@
               "RelativeToolTip": "Auth\\Views\\Auth\\Registration.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-22T13:01:31.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-22T13:01:31.807Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AuthController.cs",
               "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\Login and Registration\\Auth\\Auth\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Auth\\Controllers\\AuthController.cs",
@@ -134,25 +168,24 @@
               "RelativeToolTip": "Auth\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwCgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T18:41:04.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T18:41:04.777Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "RegisterDTO.cs",
               "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\Login and Registration\\Auth\\Auth\\DTOs\\RegisterDTO.cs",
               "RelativeDocumentMoniker": "Auth\\DTOs\\RegisterDTO.cs",
               "ToolTip": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\Login and Registration\\Auth\\Auth\\DTOs\\RegisterDTO.cs",
               "RelativeToolTip": "Auth\\DTOs\\RegisterDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-21T18:12:19.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Auth.csproj",
               "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\Login and Registration\\Auth\\Auth\\Auth.csproj",
               "RelativeDocumentMoniker": "Auth\\Auth.csproj",
@@ -164,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "AuthRegistrationContext.cs",
               "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\Login and Registration\\Auth\\Auth\\EF\\AuthRegistrationContext.cs",
               "RelativeDocumentMoniker": "Auth\\EF\\AuthRegistrationContext.cs",
@@ -176,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\Login and Registration\\Auth\\Auth\\Program.cs",
               "RelativeDocumentMoniker": "Auth\\Program.cs",
@@ -184,12 +217,11 @@
               "RelativeToolTip": "Auth\\Program.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T09:06:18.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T09:06:18.66Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\Login and Registration\\Auth\\Auth\\appsettings.json",
               "RelativeDocumentMoniker": "Auth\\appsettings.json",

@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using Auth.Validation;
 
 namespace Auth.DTOs
 {
@@ -14,8 +15,11 @@ namespace Auth.DTOs
         [Required]
         public string Password { get; set; }
         [Required]
+        [UniqueUsername]
 
         public string Username { get; set; }
+        [Required]
+        [PasswordMatch]
         public string ConfirmPassword { get; set; }
 
     }
