@@ -43,5 +43,10 @@ namespace Auth.Controllers
             return View(obj);
             
         }
+        [HttpGet]
+        public IActionResult Login()
+        {
+            return View(new loginDTO() { });
+        }
     }
 }
