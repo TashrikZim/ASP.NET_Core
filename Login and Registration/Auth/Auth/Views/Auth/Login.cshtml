@@ -1,0 +1,25 @@
+﻿
+@* @{
+    ViewData["Title"] = "Login";
+} *@
+
+<h1>Login</h1>
+
+<form method="post">
+    <input type="text" name="Username" value"@Model.Username" placeholder="Username" class="form-control" />
+    <span class="text-danger">"@Html.ValidationMessage("Username")"</span>
+
+    </<br />
+
+    <input type="password" name="Password" value" @Model.Password" placeholder="Password" class="form-control" />
+    <span class="text-danger">"@Html.ValidationMessage("Password")"</span>
+
+    </<br />
+
+    <input type="submit" value="Login" class="btn btn-primary" />
+
+    <div class="text-danger">
+        @Html.ValidationSummary();
+    </div>
+</form>
+
