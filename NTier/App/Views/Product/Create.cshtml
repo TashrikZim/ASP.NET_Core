@@ -1,0 +1,34 @@
+﻿@model BLL.DTOs.ProductDTO
+
+<h1>Create Product</h1>
+
+<form method="post" action="/Product/Create">
+
+    <label>Name</label><br />
+    <input type="text" name="Name" /><br /><br />
+
+    <label>Price</label><br />
+    <input type="number" step="0.01" name="Price" /><br /><br />
+
+    <label>Quantity</label><br />
+    <input type="number" name="Quantity" /><br /><br />
+
+    <label>Category</label><br />
+    <select name="Cid">
+        <option disabled selected>-- Select Category --</option>
+
+        @foreach (var item in ViewBag.Categories)
+        {
+            <option value="@item.Id">@item.Name</option>
+        }
+    </select>
+
+    <br /><br />
+
+    <button type="submit">Create</button>
+
+</form>
+
+<br />
+
+<a href="/Product/Index">Back to List</a>

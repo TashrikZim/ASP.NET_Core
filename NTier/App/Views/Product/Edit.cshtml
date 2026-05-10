@@ -1,0 +1,50 @@
+﻿@model BLL.DTOs.ProductDTO
+
+<h1>Edit Product</h1>
+
+<form method="post" action="/Product/Edit">
+
+    <input type="hidden" name="Id" value="@Model.Id" />
+
+    <label>Name</label><br />
+    <input type="text" name="Name" value="@Model.Name" />
+    <br /><br />
+
+    <label>Price</label><br />
+    <input type="number" step="0.01" name="Price" value="@Model.Price" />
+    <br /><br />
+
+    <label>Quantity</label><br />
+    <input type="number" name="Quantity" value="@Model.Quantity" />
+    <br /><br />
+
+    <label>Category</label><br />
+    <select name="Cid">
+
+        @foreach (var item in ViewBag.Categories)
+        {
+            if (item.Id == Model.Cid)
+            {
+                <option value="@item.Id" selected>
+                    @item.Name
+                </option>
+            }
+            else
+            {
+                <option value="@item.Id">
+                    @item.Name
+                </option>
+            }
+        }
+
+    </select>
+
+    <br /><br />
+
+    <button type="submit">Update</button>
+
+</form>
+
+<br />
+
+<a href="/Product/Index">Back to List</a>

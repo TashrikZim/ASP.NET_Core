@@ -1,3 +1,4 @@
+using BLL.Services;
 using DAL.EF;
 using DAL.Repos;
 using Microsoft.EntityFrameworkCore;
@@ -13,6 +14,8 @@ builder.Services.AddDbContext<NLayerContext>(opt =>
 
 builder.Services.AddScoped<CategoryRepo>();
 builder.Services.AddScoped<ProductRepo>();
+builder.Services.AddScoped<ProductService>();
+builder.Services.AddScoped<CategoryService>();
 
 var app = builder.Build();
 
