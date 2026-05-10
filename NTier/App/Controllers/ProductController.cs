@@ -63,5 +63,22 @@ namespace App.Controllers
             ViewBag.Categories = categoryService.Get();
             return View(p);
         }
+        [HttpGet]
+        public IActionResult Delete(int id)
+        {
+            var data = productService.Get(id);
+            return View(data); 
+        }
+
+        [HttpPost]
+        public IActionResult Delete(int id,string Decision)
+        {
+            if (Decision.Equals("Yes"))
+            {
+                productService.Delete(id);
+                return RedirectToAction("Index");
+            }
+            return RedirectToAction("Index");
+        }
     }
 }
