@@ -3,48 +3,68 @@
   "WorkspaceRootPath": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\NTier\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6BDB224-EABD-48CC-9F02-6BCC51615703}|BLL\\BLL.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\ntier\\bll\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6BDB224-EABD-48CC-9F02-6BCC51615703}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\ntier\\bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30439AE9-BB08-4719-A12D-DB102BCE4889}|DAL\\DAL.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\ntier\\dal\\ef\\tables\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30439AE9-BB08-4719-A12D-DB102BCE4889}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\ntier\\bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6BDB224-EABD-48CC-9F02-6BCC51615703}|BLL\\BLL.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\ntier\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A6BDB224-EABD-48CC-9F02-6BCC51615703}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\ntier\\bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30439AE9-BB08-4719-A12D-DB102BCE4889}|DAL\\DAL.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\ntier\\dal\\repos\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30439AE9-BB08-4719-A12D-DB102BCE4889}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\ntier\\bll\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30439AE9-BB08-4719-A12D-DB102BCE4889}|DAL\\DAL.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\ntier\\dal\\repos\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30439AE9-BB08-4719-A12D-DB102BCE4889}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\ntier\\bll\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CBDBB87-539C-499F-AE49-D4D75611CF44}|App\\App.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\ntier\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CBDBB87-539C-499F-AE49-D4D75611CF44}|App\\App.csproj|solutionrelative:app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\ntier\\dal\\repos\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30439AE9-BB08-4719-A12D-DB102BCE4889}|DAL\\DAL.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\ntier\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{30439AE9-BB08-4719-A12D-DB102BCE4889}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\ntier\\dal\\repos\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CBDBB87-539C-499F-AE49-D4D75611CF44}|App\\App.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\ntier\\app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5CBDBB87-539C-499F-AE49-D4D75611CF44}|App\\App.csproj|solutionrelative:app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\ntier\\dal\\ef\\tables\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CBDBB87-539C-499F-AE49-D4D75611CF44}|App\\App.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\ntier\\app\\app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5CBDBB87-539C-499F-AE49-D4D75611CF44}|App\\App.csproj|solutionrelative:app\\app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\ntier\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30439AE9-BB08-4719-A12D-DB102BCE4889}|DAL\\DAL.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\ntier\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30439AE9-BB08-4719-A12D-DB102BCE4889}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\ntier\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6BDB224-EABD-48CC-9F02-6BCC51615703}|BLL\\BLL.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\ntier\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6BDB224-EABD-48CC-9F02-6BCC51615703}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\ntier\\dal\\ef\\tables\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\ntier\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\ntier\\app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\ntier\\app\\app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\ntier\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\aiub all semester\\12th semester\\dot net\\asp.net_core\\ntier\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,11 +74,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\NTier\\BLL\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ProductService.cs",
+              "ToolTip": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\NTier\\BLL\\Services\\ProductService.cs",
+              "RelativeToolTip": "BLL\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T10:18:37.382Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\NTier\\BLL\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\CategoryService.cs",
+              "ToolTip": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\NTier\\BLL\\Services\\CategoryService.cs",
+              "RelativeToolTip": "BLL\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T10:17:38.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MapperConfig.cs",
+              "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\NTier\\BLL\\MapperConfig.cs",
+              "RelativeDocumentMoniker": "BLL\\MapperConfig.cs",
+              "ToolTip": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\NTier\\BLL\\MapperConfig.cs",
+              "RelativeToolTip": "BLL\\MapperConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T10:10:26.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\NTier\\DAL\\EF\\Tables\\Product.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Product.cs",
+              "ToolTip": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\NTier\\DAL\\EF\\Tables\\Product.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T09:59:30.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\NTier\\BLL\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\ProductDTO.cs",
+              "ToolTip": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\NTier\\BLL\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T09:59:24.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Category.cs",
               "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\NTier\\DAL\\EF\\Tables\\Category.cs",
               "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Category.cs",
@@ -71,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "CategoryDTO.cs",
               "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\NTier\\BLL\\DTOs\\CategoryDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOs\\CategoryDTO.cs",
@@ -84,34 +177,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ProductRepo.cs",
               "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\NTier\\DAL\\Repos\\ProductRepo.cs",
               "RelativeDocumentMoniker": "DAL\\Repos\\ProductRepo.cs",
               "ToolTip": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\NTier\\DAL\\Repos\\ProductRepo.cs",
               "RelativeToolTip": "DAL\\Repos\\ProductRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwBIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-10T09:37:11.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "CategoryRepo.cs",
               "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\NTier\\DAL\\Repos\\CategoryRepo.cs",
               "RelativeDocumentMoniker": "DAL\\Repos\\CategoryRepo.cs",
               "ToolTip": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\NTier\\DAL\\Repos\\CategoryRepo.cs",
               "RelativeToolTip": "DAL\\Repos\\CategoryRepo.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA5wCcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-10T09:21:21.748Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DAL",
+              "DocumentIndex": 11,
+              "Title": "DAL.csproj",
               "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\NTier\\DAL\\DAL.csproj",
               "RelativeDocumentMoniker": "DAL\\DAL.csproj",
               "ToolTip": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\NTier\\DAL\\DAL.csproj",
@@ -123,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\NTier\\App\\appsettings.json",
               "RelativeDocumentMoniker": "App\\appsettings.json",
@@ -136,21 +229,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\NTier\\App\\Program.cs",
               "RelativeDocumentMoniker": "App\\Program.cs",
               "ToolTip": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\NTier\\App\\Program.cs",
               "RelativeToolTip": "App\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-10T08:50:38.545Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BLL",
+              "DocumentIndex": 9,
+              "Title": "BLL.csproj",
               "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\NTier\\BLL\\BLL.csproj",
               "RelativeDocumentMoniker": "BLL\\BLL.csproj",
               "ToolTip": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\NTier\\BLL\\BLL.csproj",
@@ -162,8 +255,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "App",
+              "DocumentIndex": 13,
+              "Title": "App.csproj",
               "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\NTier\\App\\App.csproj",
               "RelativeDocumentMoniker": "App\\App.csproj",
               "ToolTip": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\NTier\\App\\App.csproj",
@@ -174,16 +267,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Class1.cs",
               "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\NTier\\DAL\\Class1.cs",
               "RelativeDocumentMoniker": "DAL\\Class1.cs",
@@ -196,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Class1.cs",
               "DocumentMoniker": "E:\\AIUB ALL SEMESTER\\12th Semester\\Dot Net\\ASP.NET_Core\\NTier\\BLL\\Class1.cs",
               "RelativeDocumentMoniker": "BLL\\Class1.cs",

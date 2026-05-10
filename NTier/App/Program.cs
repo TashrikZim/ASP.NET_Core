@@ -1,4 +1,5 @@
 using DAL.EF;
+using DAL.Repos;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -8,7 +9,10 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<NLayerContext>(opt =>
 {
     opt.UseSqlServer(builder.Configuration.GetConnectionString("DbConn"));
-}); 
+});
+
+builder.Services.AddScoped<CategoryRepo>();
+builder.Services.AddScoped<ProductRepo>();
 
 var app = builder.Build();
 
